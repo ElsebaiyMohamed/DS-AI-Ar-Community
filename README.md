@@ -26,7 +26,7 @@ Once you join the AI&DS community, you can engage in several activities to enhan
 
 > Remember, your involvement in the AI&DS community ultimately depends on your dedication and commitment to self-improvement and continuous learning. Seize every opportunity and leverage the resources provided to become the AI and DS expert you aspire to be.
 
-To join our community and unlock all these opportunities, join us on discord [DS&AI Arab Community](https://discord.gg/PJmDufa4mx)
+To join our community and unlock all these opportunities, join us on discord [AI&DS Arab Community](https://discord.gg/Wx8tppSbae)
 
 ## Explanation of server Categoeries & Channles:
 
