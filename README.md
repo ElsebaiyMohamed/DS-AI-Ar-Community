@@ -1,16 +1,16 @@
-# What is DS&AI Communitiy?
+# What is AI&DS Communitiy?
 
-The DS&AI community, an acronym for Data Science and Artificial Intelligence, stands as a dynamic hub tailored for Arab enthusiasts and professionals eager to delve into the realms of AI and DS. Dr. Hattem Elattar, the visionary behind this initiative, identified a void in the Arab community's AI discourse and, fueled by a commitment to his educational platforms on YouTube and Udemy, took the initiative to bridge this gap.
+The AI&DS community, an acronym for Data Science and Artificial Intelligence, stands as a dynamic hub tailored for Arab enthusiasts and professionals eager to delve into the realms of AI and DS. Hatem Elattar, Ph.D, the visionary behind this initiative, identified a void in the Arab community's AI discourse and, fueled by a commitment to his educational platforms on YouTube and Udemy, took the initiative to bridge this gap.
 
 This community transcends disciplinary boundaries, welcoming individuals from diverse fields such as medicine, finance, agriculture, language, and beyond. It serves as a collective space for learning, inquiry, and collaborative projects.
 
-Joining the DS&AI community opens doors to a plethora of advantages. Accessing qualified experts ensures swift and precise responses to queries, while interaction with like-minded peers accelerates the learning process. Exposure to varied perspectives from different fields enriches understanding, and the platform provides opportunities to engage in both paid and free projects or collaborate with esteemed researchers.
+Joining the AI&DS community opens doors to a plethora of advantages. Accessing qualified experts ensures swift and precise responses to queries, while interaction with like-minded peers accelerates the learning process. Exposure to varied perspectives from different fields enriches understanding, and the platform provides opportunities to engage in both paid and free projects or collaborate with esteemed researchers.
 
-Whether you're a seasoned AI practitioner or taking your first steps into the realm of DS&AI, this community offers something for everyone. Elevate your skills, broaden your network, and embark on a journey of continuous learning by becoming part of the DS&AI community today!"
+Whether you're a seasoned AI practitioner or taking your first steps into the realm of AI&DS, this community offers something for everyone. Elevate your skills, broaden your network, and embark on a journey of continuous learning by becoming part of the AI&DS community today!"
 
-# What can I do in DS&AI Communitiy?
+# What can I do in AI&DS Communitiy?
 
-Once you join the DS&AI community, you can engage in several activities to enhance your skills and network. Here are some ideas:
+Once you join the AI&DS community, you can engage in several activities to enhance your skills and network. Here are some ideas:
 
 1. **Access Quality Education**: Explore the comprehensive learning resources provided by the community, including interactive tutorials, lectures, and practical projects. These resources cover various AI and DS topics, catering to diverse interests and skill levels.
 
@@ -24,18 +24,18 @@ Once you join the DS&AI community, you can engage in several activities to enhan
 
 6. **Contribute Your Knowledge**: Share your knowledge and expertise by contributing to the community's learning resources or by offering mentorship to newcomers. This gesture fosters a sense of camaraderie and collective growth within the community.
 
-> Remember, your involvement in the DS&AI community ultimately depends on your dedication and commitment to self-improvement and continuous learning. Seize every opportunity and leverage the resources provided to become the AI and DS expert you aspire to be.
+> Remember, your involvement in the AI&DS community ultimately depends on your dedication and commitment to self-improvement and continuous learning. Seize every opportunity and leverage the resources provided to become the AI and DS expert you aspire to be.
 
 To join our community and unlock all these opportunities, join us on discord [DS&AI Arab Community](https://discord.gg/PJmDufa4mx)
 
 ## Explanation of server Categoeries & Channles:
 
-The DS&AI Arab Community Discord server is organized into distinct categories, each offering specialized information and knowledge. It's crucial to stay within relevant channels to enhance information sharing, fostering a better community experience. Additionally, we encourage members to search for answers before posting new questions.
+The AI&DS Arab Community Discord server is organized into distinct categories, each offering specialized information and knowledge. It's crucial to stay within relevant channels to enhance information sharing, fostering a better community experience. Additionally, we encourage members to search for answers before posting new questions.
 
 ### Server Categories
 
 - **Community Corner:** Centralizes discussions on rules, guidelines, announcements, seeking privileges, suggesting new features, and their importance. Channels include Welcome and Rules, Ask Moderator, Announcement, FAQ, and Server Suggestions.
-- **Mentorship Hub:** Primarily for seeking guidance from mentors like Dr. Hattem Elattar. Focuses on general inquiries, career advice, and non-technical discussions, excluding technical questions and bug-solving. Check the FAQ section first to know how to ask.
+- **Mentorship Hub:** Primarily for seeking guidance from mentors like Hatem Elattar, Ph.D. Focuses on general inquiries, career advice, and non-technical discussions, excluding technical questions and bug-solving. Check the FAQ section first to know how to ask.
 - **Dr. Hattem's Courses Corner:** Dedicated channels for technical discussions by course. Refrain from mentioning the mentor unless necessary. Check the FAQ section first to know how to ask and respond with confidence and verified information.
 - **Coffee Corner:** A space for casual hangout topics, meme sharing (also available on Memes channel), and sharing daily progress—both plans and achievements. Open discussions on anything within this category.
 - **Collaborate Corner:** Centralizes job postings from server members, shares external job opportunities, and facilitates idea-sharing. It's the go-to space for seeking collaborators for specific tasks.
